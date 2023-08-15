@@ -1,2 +1,2 @@
-# hltv-csgo-demo-scraper
+# csgo-demo-web-scraper
 Demo scraper from hltv
